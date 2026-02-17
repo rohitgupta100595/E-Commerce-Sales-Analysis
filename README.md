@@ -23,3 +23,6 @@ This Project analyzes regional & Product level sales performance to identify rev
 
 ### Business Value
 This analysis helps identify revenue concentration risks, regional instability & product - level dependency, enabling better strategic planning, risk mitigation & resource allocation decision.
+
+### Working Dashboard Link
+*https://app.powerbi.com/view?r=eyJrIjoiM2FmOTRmNTEtMGEyZi00ZDNjLWJjMTktMDdlMTg3MDk0Y2I5IiwidCI6IjNhZDc2MTY2LTAyZWYtNGM2Ny1hYTFlLTY3YjVhZDJlZTZiMCJ9&pageName=5f03cdcb370bce829919*
