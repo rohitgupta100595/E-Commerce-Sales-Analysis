@@ -1,2 +1,5 @@
-# E-Commerce-Sales-Analysis
-PowerBI project uncovering trends and patterns of E-Commerce Organisation, usefull for driving business successfully.
+# Sales Profitability Analysis by Region & Product
+*This Project analyzes regional & Product level sales performance to identify revenue drivers, profitability trend & business risk areas.*
+
+*The analysis focuses on revenue concentration, regional volatility & margin vs volume dynamics to generate strategic recommendations.*
+
